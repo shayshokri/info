@@ -1,0 +1,13 @@
+Few shot learning : https://github.com/few-shot-learning/Keras-FewShotLearning 
+First add (clone / git) the repos to yours repositories by plus sign top right! Using import repos and the destination repos address as the one u r importing from.
+Then being logged in to the colab and GitHub do:
+—> use git to upload the notebook from GitHub its awesome!
+After that u can easily use third party libraries in the git file in the colab.
+---
+Covid paper
+Dataset: https://www.dropbox.com/s/09b5nutjxotmftm/data_upload_v2.zip?dl=0
+Radiologist certified
+Paper for comparison: DEEP-COVID
+New frontiers in DL: 
+few shot learning with few datasets with self-supervise and unsupervised at first
+Transformers 
